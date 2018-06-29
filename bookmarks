@@ -1,0 +1,30 @@
+;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("setup"
+ (filename . "~/.emacs.d/setup/")
+ (front-context-string . "setup-dired.el\n ")
+ (rear-context-string . "00 abr  3 16:57 ")
+ (position . 188))
+("score-data"
+ (filename . "~/Projects/datata/score-data/project/")
+ (front-context-string)
+ (rear-context-string . "38 jun 20 21:04 ")
+ (position . 205))
+("personal"
+ (filename . "~/Projects/personal/")
+ (front-context-string)
+ (rear-context-string . "96 jul 12 20:16 ")
+ (position . 185))
+("datata"
+ (filename . "~/Projects/datata/")
+ (front-context-string)
+ (rear-context-string . "96 sep  3 02:33 ")
+ (position . 366))
+("Downloads"
+ (filename . "~/Downloads/")
+ (front-context-string . "aymon-fournier\n ")
+ (rear-context-string . "96 sep  6 07:49 ")
+ (position . 191))
+)

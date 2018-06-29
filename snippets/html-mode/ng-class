@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: Angular 2 class
+# key: ngclass
+# contributor: Omar Trejo, @otrenav
+# --
+[ngClass]="{${1:css-class}: ${2:expression}}"
+$0

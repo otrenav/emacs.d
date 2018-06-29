@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: Angular 2 style
+# key: ngstyle
+# contributor: Omar Trejo, @otrenav
+# --
+[ngStyle]="{${1:style}: ${2:expression}}"
+$0

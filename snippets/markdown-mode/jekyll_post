@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: Jekyll Post
+# key:  jp
+# --
+---
+title:       ${1:Title}
+image:       /assets/images/blog/tops/image.png
+image_width: 100
+---
+
+${2:Content}

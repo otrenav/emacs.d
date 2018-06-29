@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: Angular 2 routes setup
+# key: ngroutes
+# contributor: Omar Trejo, @otrenav
+# --
+@Routes([
+    { path: '/${1:path}', component: ${2:Component} }$0
+])

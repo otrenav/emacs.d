@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: Angular 2 *ngIf
+# key: ngif
+# contributor: Omar Trejo, @otrenav
+# --
+*ngIf="${1:expression}"
+$0

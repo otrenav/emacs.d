@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: Angular 2 HTTP GET
+# key: nghttpget
+# contributor: Omar Trejo, @otrenav
+# --
+return this.http.get('${1:url}')
+    .map((resp: Response) => resp.json()${0});

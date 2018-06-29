@@ -1,0 +1,21 @@
+# -*- mode: snippet -*-
+# name: Angular 2 component
+# key: ngcomp
+# contributor: Omar Trejo, @otrenav
+# --
+import { Component, OnInit } from '@angular/core';
+
+@Component({
+    moduleId: module.id,
+    selector: '${1:$(camel-case-to-hyphens yas-text)}',
+    templateUrl: '${1:$(camel-case-to-hyphens yas-text)}.component.html',
+    styleUrls: ['${1:$(camel-case-to-hyphens yas-text)}.component.css']
+})
+export class ${1:ComponentName}Component implements OnInit {
+
+    $0
+
+    constructor() {}
+
+    ngOnInit() {}
+}

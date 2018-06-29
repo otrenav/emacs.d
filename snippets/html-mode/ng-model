@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: Angular 2 model
+# key: ngmodel
+# contributor: Omar Trejo, @otrenav
+# --
+[(ngModel)]="${1:binding}"
+$0

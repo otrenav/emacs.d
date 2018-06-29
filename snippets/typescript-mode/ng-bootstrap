@@ -1,0 +1,16 @@
+# -*- mode: snippet -*-
+# name: Angular 2 bootstrap
+# key: ngbootstrap
+# contributor: Omar Trejo, @otrenav
+# --
+import { enableProdMode } from '@angular/core';
+import { bootstrap } from '@angular/platform-browser-dynamic';
+
+import { ${1:AppComponent} } from './${2:name}.component';
+
+// enableProdMode();
+
+bootstrap(${AppComponent})
+    .then(success => console.log(`Bootstrap success`))
+    .catch(error => console.log(error));
+$0

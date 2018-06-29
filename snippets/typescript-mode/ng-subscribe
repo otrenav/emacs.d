@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: Angular 2 observable subscribe
+# key: ngsubscribe
+# contributor: Omar Trejo, @otrenav
+# --
+this.${1:service}.${2:function}
+    .subscribe(${3:arg} => this.${4:property} = ${3});
+$0

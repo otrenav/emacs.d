@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: Angular 2 router link
+# key: ngrouterlink
+# contributor: Omar Trejo, @otrenav
+# --
+[routerLink]="['${1:route_name}']"
+$0

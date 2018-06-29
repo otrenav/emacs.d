@@ -1,0 +1,21 @@
+# -*- mode: snippet -*-
+# contributor: otrenav
+# name: base-template
+# key:  bt
+# group: org-mode
+# --
+#+TITLE:              $0
+#+AUTHOR:             Omar Trejo
+#+EMAIL:              otrenav@gmail.com
+#+DATE:               `(format-time-string "%Y-%m-%d" (current-time))`
+#+BEAMER_THEME:       Warsaw
+#+BEAMER_COLOR_THEME: beaver
+
+* Follow me
+  - [[https://www.youtube.com/channel/UC7IvBlddLgkKfunUKqjwGYA][Omar Trejo's YouTube Channel]]
+  - [[https://otrenav.wordpress.com][Omar Trejo's Blog]]
+  - [[https://www.github.com/otrenav][GitHub: @otrenav]]
+  - [[https://www.twitter.com/otrenav][Twitter: @otrenav]]
+  - [[https://www.linkedin.com/in/otrenav][LinkedIn Profile]]
+  - [[https://www.codementor.io/otrenav][CodeMentor Profile]]
+  - [[https://www.hackhands.com/otrenav][HackHands Profile]]

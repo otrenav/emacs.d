@@ -1,0 +1,14 @@
+# -*- mode: snippet -*-
+# name: Angular 2 service
+# key: ngserv
+# contributor: Omar Trejo, @otrenav
+# --
+import { Injectable } from '@angular/core';
+
+@Injectable()
+export class ${1:ServiceName}Service {
+
+    $0
+
+    constructor() {}
+}

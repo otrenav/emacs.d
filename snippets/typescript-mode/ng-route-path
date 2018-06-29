@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: Angular 2 route path
+# key: ngroutepath
+# contributor: Omar Trejo, @otrenav
+# --
+{ path: '/${1:path}', component: ${2:Component} }$0
