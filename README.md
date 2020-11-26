@@ -3,7 +3,7 @@
 
 ---
 
-# My Emacs Configuration
+# Emacs Configuration
 
 - Omar Trejo
 - May, 2015
